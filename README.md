@@ -20,5 +20,5 @@
 <br />
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinussilvestrus&layout=compact&hide_title=1&card_width=300" alt="Top Langs" />
+  <img width="" src="https://github-readme-stats.vercel.app/api?username=pinussilvestrus&show=reviews&hide=contribs,issues&include_all_commits=true" alt="Github statistics" />
 </div>
