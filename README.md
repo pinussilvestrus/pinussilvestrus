@@ -20,5 +20,5 @@
 <br />
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api?username=pinussilvestrus&show=reviews&hide=contribs,issues&include_all_commits=true" alt="Github statistics" />
+  <img width="" src="https://github-readme-stats.vercel.app/api?username=pinussilvestrus&show=reviews&hide=contribs,issues" alt="Github statistics" />
 </div>
